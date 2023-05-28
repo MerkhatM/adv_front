@@ -4,7 +4,7 @@ import { Box } from '@mui/material';
 import {Route, Routes } from 'react-router-dom';
 
 import Navbar from './components/Navbar/Navbar.jsx';
-import Footer from './components/Footer';
+import Footer from './components/Footer/Footer';
 import Home from './pages/Home';
 import ExcerciseDetail from './pages/ExcersiceDetail';
 import BmiCalculator from './pages/BmiCalculator';

@@ -1,0 +1,72 @@
+.hero-banner-container {
+    margin-top: 210px;
+    margin-left: 50px;
+    position: relative;
+    padding: 20px;
+    display: flex;
+}
+
+.hero-banner-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.hero-banner-title {
+    color: #ffb700;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.hero-banner-subtitle {
+    font-weight: 700;
+    color: #b2becd;
+    font-size: 54px;
+    line-height: 60px;
+}
+
+.hero-banner-subtitle-small {
+    font-size: 40px;
+}
+
+.hero-banner-description {
+    font-size: 22px;
+    color: #dbe1e8;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+
+.hero-banner-link {
+    margin-top: 35px;
+    text-decoration: none;
+    width: 200px;
+    text-align: center;
+    background: #ffb700;
+    padding: 14px;
+    font-size: 22px;
+    text-transform: none;
+    color: #dbe1e8;
+    border-radius: 4px;
+}
+
+.hero-banner-exercise-text {
+    font-weight: 600;
+    color: #ffb700;
+    opacity: 0.1;
+    display: block;
+    font-size: 200px;
+    text-align: center;
+}
+
+.hero-banner-img {
+    position: absolute;
+    right: 40px;
+    top: 0px;
+    width: 600px;
+    height: 600px;
+    margin-top: -200px;
+
+}

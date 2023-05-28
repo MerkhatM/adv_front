@@ -1,15 +1,15 @@
 .navbar-container {
     display: flex;
     padding: 0 20px;
-    margin-top: 32px; /* default margin-top value */
-    justify-content: flex-start; /* Updated value */
-
+    margin-top: 32px;
+    justify-content: flex-start;
+    background-color: #293e5b;
 }
 
 .navbar-logo {
     width: 100px;
     height: 100px;
-    margin: 0 100px 0 15px;
+    margin: 10px 100px 5px 15px;
 }
 
 .navbar-links {
