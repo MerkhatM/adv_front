@@ -1,0 +1,29 @@
+.bodyPart-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-top: none;
+    background-color: #fff;
+    border-bottom-left-radius: 20px;
+    width: 270px;
+    height: 280px;
+    cursor: pointer;
+    gap: 47px;
+}
+
+.bodyPart-card.selected {
+    border-top: 4px solid #ffb700;
+}
+
+.bodyPart-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.bodyPart-text {
+    font-weight: bold;
+    font-size: 24px;
+    color: #3a1212;
+    text-transform: capitalize;
+}

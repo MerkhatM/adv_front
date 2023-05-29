@@ -14,7 +14,7 @@ const HeroBanner = () => {
                     Check out the most effective exercises
                 </p>
                 <a href="src/components/HeroBanner/HeroBanner#exercises" className="hero-banner-link">
-                    Explore Exercises
+                    Check Exercises
                 </a>
             </div>
             <img
